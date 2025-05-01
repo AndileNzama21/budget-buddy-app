@@ -72,7 +72,8 @@ Let Gradle sync the dependencies automatically.
 Connect an emulator or an Android device (minimum API level 24). 
 
 Run the application.
-
+YouTube Video Link : [
+](https://youtu.be/qUSw9gAoUh4)
 
 Project Structure: 
 
